@@ -1,0 +1,92 @@
+.login{
+    height: 669px;
+    width: 493px;
+    background-color: #2BADC0;
+    margin: auto;
+    border-radius: 96px;
+    border: #707070;
+}
+.top-rectangle{
+    width: 349px;
+    height: 56px;
+    background-color: #13D3D9;
+    position: relative;
+    left: 85px;
+    top: 123.25px;
+    border-radius: 32px;
+    width: 349px;
+    border-radius: 32px;
+    transform: rotate(12deg);
+}
+.top-inner-rectangle{
+    width: 349px;
+    height: 56px;
+    background-color: #060D4D;
+    transform: rotate(12deg);
+    border-radius: 32px;
+    position: relative;
+    left: 95px;
+    top: 83.25px;
+}
+.down-rectangle{
+    width: 349px;
+    height: 56px;
+    background-color: #13D3D9;
+    position: relative;
+    left: 85px;
+    top: 246.5px;
+    border-radius: 32px;
+    width: 349px;
+    border-radius: 32px;
+    transform: rotate(12deg);
+}
+.down-inner-rectangle{
+    width: 349px;
+    height: 56px;
+    background-color: #060D4D;
+    transform: rotate(12deg);
+    border-radius: 32px;
+    position: relative;
+    left: 95px;
+    top: 209.5px;
+}
+.login-inputs{
+    height: 100px;
+}
+.fas {
+    font-size:80px ;
+}
+.login-button{
+    width: 261px;
+    height: 59px;
+    border-radius: 40px;
+    position: absolute;
+    left: 964px;
+    top:273.5px;
+    background-color: #142658;
+    color: white;
+    border-color: #371818;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 35px;
+    cursor: pointer;
+}
+.sign-up-button{
+    width: 261px;
+    height: 59px;
+    border-radius: 40px;
+    position: absolute;
+    left: 997px;
+    top: 372.5px;
+    background-color: #142658;
+    color: white;
+    border-color: #371818;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 35px;
+    cursor:pointer;
+}
+.sign-up-button:hover{
+    background-color:#011c68;
+}
+.login-button:hover{
+    background-color: #011c68;
+}
